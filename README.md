@@ -1,4 +1,4 @@
-# Diwali_Sales_Dashboard
+# Diwali Sales Analysis with Power BI
 
 ## Description
 
